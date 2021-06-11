@@ -1,0 +1,8 @@
+env:
+  id: FetchPush
+runner:
+  max_steps: 50
+plan:
+  max_steps: 50
+pc:
+  bonus_scale: 0.1

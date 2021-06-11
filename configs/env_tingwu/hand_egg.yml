@@ -1,0 +1,8 @@
+env:
+  id: HandEgg
+runner:
+  max_steps: 100
+plan:
+  max_steps: 100
+pc:
+  bonus_scale: 1

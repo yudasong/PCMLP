@@ -1,0 +1,11 @@
+env:
+  id: MountainCar
+runner:
+  max_steps: 200
+plan:
+  max_steps: 200
+pc:
+  bonus_scale: 2
+  bonus_stop_time: 50
+rollout:
+  n_train_samples: 1000
